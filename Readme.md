@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ян Павлович](https://up.htmlacademy.ru/htmlcss/37/user/239510).
-* Наставник: [Малик Киров](https://htmlacademy.ru/profile/id17217).
+* Наставник: Малик
 
 ---
 
